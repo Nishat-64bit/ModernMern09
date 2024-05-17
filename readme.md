@@ -1,9 +1,9 @@
 ------------------------------------------------------------------    
-                know about js Dom 04 Number Guessing Game  <Start>
+                know about js Dom 06 Callback function data pass & promise   <Start>
     -------------------------------------------------------------------
 
         // oke now how to pass data in callback function ? 
 
     ------------------------------------------------------------------    
-                know about js Dom 04 Number Guessing Game  <End>
+               know about js Dom 06 Callback function data pass & promise   <End>
     -------------------------------------------------------------------
